@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <profdata>
-
+	
 	<profile>
 		<id>119</id>
 		<name>Zubaid Ahmad</name>
@@ -103,7 +103,7 @@
 		<smallImg>apte.jpg</smallImg>
 		<speaker>yes</speaker>
 		<opc>no</opc>
-		<bdc>yes</bdc>
+		<bdc>yes</bdc>		
 		<executivecommittee>none</executivecommittee>
 		<senioradvisor>no</senioradvisor>
 		<sec16dir>no</sec16dir>
@@ -129,8 +129,8 @@
 		<bio><![CDATA[
 			<p>Shirish Apte is Co-Chairman of Asia Pacific Banking. From 2009-2011, he was Chief Executive Officer of Citi Asia Pacific with direct responsibility for South Asia, including Australia, India and ASEAN countries.</p>
 			<p>Prior to that, Mr. Apte served as CEO of Citi's Central & Eastern European Region, which includes some of the fastest-growing emerging markets.</p>
-			<p>Previously, Mr. Apte was CEO of Central & Eastern Europe, Middle East & Africa (CEEMEA), Citi Markets & Banking, and before that, he was Country Manager and Deputy President of Citibank Handlowy, Poland. Mr. Apte was instrumental in Citigroup acquiring Bank Handlowy, Poland in 2000 and led the merger of Bank Handlowy into Citigroup.</p>
-			<p>Mr. Apte has more than 28 years experience with Citi, starting as Relationship Manager with Citibank India. He held various assignments in Corporate Banking, Risk Management and Corporate Finance Investment Banking before becoming Markets & Banking Head in India. Mr. Apte moved to London in 1993 as one of the senior Risk Managers for the group before becoming Corporate Finance Head for CEEMEA, including India.</p>
+			<p>Previously, Mr. Apte was CEO of Central & Eastern Europe, Middle East & Africa (CEEMEA), Citi Markets & Banking, and before that, he was Country Manager and Deputy President of Citibank Handlowy, Poland. Mr. Apte was instrumental in Citigroup acquiring Bank Handlowy, Poland in 2000 and led the merger of Bank Handlowy into Citigroup.</p> 
+			<p>Mr. Apte has more than 28 years experience with Citi, starting as Relationship Manager with Citibank India. He held various assignments in Corporate Banking, Risk Management and Corporate Finance Investment Banking before becoming Markets & Banking Head in India. Mr. Apte moved to London in 1993 as one of the senior Risk Managers for the group before becoming Corporate Finance Head for CEEMEA, including India.</p> 
 			<p>Mr. Apte is a Chartered Accountant from the Institute of Chartered Accountants in England and has an MBA from London Business School. He is Citi's Senior Statesman at the London Business School.</p>
 			]]></bio>
 	</profile>
@@ -145,7 +145,7 @@
 		<smallImg>aristeguieta.jpg</smallImg>
 		<speaker>yes</speaker>
 		<opc>yes</opc>
-		<bdc>no</bdc>
+		<bdc>no</bdc>		
 		<speakerInfo>
 			<highlights>
 				<link/>
@@ -172,7 +172,7 @@
 
 			]]></bio>
 	</profile>
-
+	
 	<profile>
 		<id>4</id>
 		<name>C. Michael Armstrong</name>
@@ -224,10 +224,10 @@
 			</travels>
 		</speakerInfo>
 		<bio><![CDATA[
-			<p>Javier Arrigunaga was named Chief Executive Officer of Mexico for Citi following service as CEO of Grupo Financiero Banamex.</p>
-			<p>Javier is a member of the Banamex Executive Commission. He is director of the board of Grupo Financiero Banamex and Banco Nacional de Mexico, Acciones y Valores Banamex (Brokerage House), Aeromexico (Mexico’s flagship airline) and the Universidad Iberoamericana.</p>
-			<p>Before joining Citi/Banamex in 2002, Javier Arrigunaga was the Ambassador of Mexico to the OECD in Paris. He previously worked for 15 years at Banco de Mexico (Mexico’s Central Bank) where he held different positions. Javier was part of the team responsible for the negotiation of the international assistance to support Mexico during the macroeconomic crisis during 1995 and from 1997 he was CEO of the Deposit Insurance Agency responsible for managing the Mexican Banking Crisis.</p>
-			<p>He holds a law degree from the Universidad Iberoamericana and a master's in law and finance from Columbia University.</p>
+			<p>Javier Arrigunaga was named Chief Executive Officer of Mexico for Citi following service as CEO of Grupo Financiero Banamex.</p> 
+			<p>Javier is a member of the Banamex Executive Commission. He is director of the board of Grupo Financiero Banamex and Banco Nacional de Mexico, Acciones y Valores Banamex (Brokerage House), Aeromexico (Mexico’s flagship airline) and the Universidad Iberoamericana.</p> 
+			<p>Before joining Citi/Banamex in 2002, Javier Arrigunaga was the Ambassador of Mexico to the OECD in Paris. He previously worked for 15 years at Banco de Mexico (Mexico’s Central Bank) where he held different positions. Javier was part of the team responsible for the negotiation of the international assistance to support Mexico during the macroeconomic crisis during 1995 and from 1997 he was CEO of the Deposit Insurance Agency responsible for managing the Mexican Banking Crisis.</p> 
+			<p>He holds a law degree from the Universidad Iberoamericana and a master's in law and finance from Columbia University.</p> 
 
 
 			]]></bio>
@@ -256,7 +256,7 @@
 			<p>George holds a B.S. in civil engineering from the American University of Beirut and an M.B.A. from the University of Pittsburgh, Katz Graduate School of Business. He has more than 20 years of consumer product and financial services experience in Europe, Asia, and the U.S.</p>
 			]]></bio>
 	</profile>
-
+	
 	<profile>
 		<id>6</id>
 		<name>Suneel Bakhshi</name>
@@ -351,7 +351,7 @@
 				<li>Previous Directorships within the last five years: E.I. du Pont de Nemours and Company and Alcoa Inc.</li>
 				<li>Other Activities: Brazil Project Advisory Board (Co-Chair) at The Woodrow Wilson International Center for Scholars, The Business Council (member), Business Roundtable (member), World Business Council for Sustainable Development (member), and World Economic Forum - International Business Council (member)</li>
 			</ul>
-			]]></bio>
+			]]></bio>		
 	</profile>
 	<profile>
 		<id>9</id>
@@ -433,8 +433,8 @@
 		</speakerInfo>
 		<bio><![CDATA[
 			<p>Stephen Bird is Chief Executive Officer of Citi Asia Pacific, responsible for all the company’s business lines across 17 markets in the region from Korea in the North to Australia in the South including China and India. He is a member of the Citi Global Operating Committee.</p>
-			<p>Mr. Bird was previously joint CEO of Citi Asia Pacific with responsibility for North Asia. From 2006 to 2008, he was Head of Consumer Banking in Asia Pacific, responsible for the Retail Banking, Credit Cards and Consumer Lending businesses with over 30 million customer accounts across the region.
-			<p>Prior to that, he served four years in Citi Japan as CEO of Credit Cards and Consumer Finance. Earlier, he was Head of Operations & Technology for Citi Latin America, covering all of Citi’s businesses in 23 countries.</p>
+			<p>Mr. Bird was previously joint CEO of Citi Asia Pacific with responsibility for North Asia. From 2006 to 2008, he was Head of Consumer Banking in Asia Pacific, responsible for the Retail Banking, Credit Cards and Consumer Lending businesses with over 30 million customer accounts across the region.  
+			<p>Prior to that, he served four years in Citi Japan as CEO of Credit Cards and Consumer Finance. Earlier, he was Head of Operations & Technology for Citi Latin America, covering all of Citi’s businesses in 23 countries.</p> 
 			<p>Mr. Bird joined Citi in 1998 in Singapore as the Asia Pacific Head for Operations & Technology. He successfully built Citi’s technological and operational capability to deliver outstanding customer service and market-leading internet and mobile capability. Citi’s award-winning e-commerce capabilities continue to win customer and industry recognition. He relocated to Latin America in 2001.</p>
 			<p>Prior to Citi, Mr. Bird held senior management positions in GE Capital and British Steel in the United Kingdom. At GE Capital, Mr. Bird launched its 6 Sigma program and established a client focus and continual improvement culture in GE Capital Fleet Services before becoming its Director of U.K. Operations. He is a recipient of GE’s “Pinnacle Award” for pioneering work in establishing joint commercial ventures between GE Capital’s different businesses serving the financial needs of the U.K. automotive sector. </p>
 			<p>Mr. Bird is an alumnus of Citi’s Chairman’s Executive Forum and GE’s European Advanced Leadership program. He is a graduate of University College Cardiff with an M.B.A. in economics & finance.</p>
@@ -680,7 +680,7 @@
 		<id>109</id>
 		<name>Richard Cookson</name>
 		<firstname>Richard</firstname>
-		<lastname>Cookson</lastname>
+		<lastname>Richard Cookson</lastname>
 		<title1>Global Chief Investment Officer</title1>
 		<title2>Citi Private Bank</title2>
 		<title3/>
@@ -788,12 +788,12 @@
 			</travels>
 		</speakerInfo>
 		<bio><![CDATA[
-			<p>Sanjiv Das is president and chief executive officer of CitiMortgage. After an eight-year tenure with Citi in the 1990s, Mr. Das returned to Citi in July 2008 in this role as head of CitiMortgage.</p>
-			<p>Prior to rejoining Citi, Mr. Das was a managing director in Morgan Stanley's Institutional Securities Group, where he built a best-in-class organization that delivered proprietary content based on fundamental analytics across equity research, trading and investment banking.</p>
-			<p>In his first tenure at Citi, his roles included head of Citi's Global Mortgage Product Group and managing director of Marketing and Product Development for CitiMortgage. He was also general manager of Citibank's Consumer Mortgage Group in Australia and spent time in Citi's Cards operation. </p>
-			<p>Additional experience includes time at Bank One (First USA) as executive vice president in the Mortgage and Home Equity division.</p>
+			<p>Sanjiv Das is president and chief executive officer of CitiMortgage. After an eight-year tenure with Citi in the 1990s, Mr. Das returned to Citi in July 2008 in this role as head of CitiMortgage.</p> 
+			<p>Prior to rejoining Citi, Mr. Das was a managing director in Morgan Stanley's Institutional Securities Group, where he built a best-in-class organization that delivered proprietary content based on fundamental analytics across equity research, trading and investment banking.</p>  
+			<p>In his first tenure at Citi, his roles included head of Citi's Global Mortgage Product Group and managing director of Marketing and Product Development for CitiMortgage. He was also general manager of Citibank's Consumer Mortgage Group in Australia and spent time in Citi's Cards operation. </p> 
+			<p>Additional experience includes time at Bank One (First USA) as executive vice president in the Mortgage and Home Equity division.</p> 
 			<p>Mr. Das holds a B.S. in mathematics from the University of Delhi and an M.B.A. in marketing and finance from the Indian Institute of Management &#150; Ahmedabad.</p>]]></bio>
-	</profile>
+	</profile>	
 	<profile>
 		<id>16</id>
 		<name>James C. Cowles</name>
@@ -840,7 +840,7 @@
 		<name>Alberto Cribiore</name>
 		<firstname>Alberto</firstname>
 		<lastname>Cribiore</lastname>
-		<title1>Vice Chairman</title1>
+		<title1>Vice Chairman</title1> 
 		<title2>Institutional Clients Group</title2>
 		<title3/>
 		<title4/>
@@ -860,8 +860,8 @@
 			<p>Mr. Cribiore is a <i>cum laude</i> graduate of Bocconi University in Milan, Italy and holds degrees in business administration and economics. He has served on the Board of Directors of Merrill Lynch where he served as non executive Chairman, and currently serves as a Director of GAB Robins and various other Brera controlled companies. </p>
 			<p>Mr. Cribiore is also an Advisory Director of the Metropolitan Opera Association and Founder and Honorary Chairman of the New York City Chapter of the Bocconi University Alumni Association. He is also a director of the Council for the United States and Italy and a member of the Weill Cornell Medical College Board of Overseers.</p>
 			]]></bio>
-	</profile>
-
+	</profile>	
+	
 	<profile>
 		<id>97</id>
 		<name>Johanna Dee Chua</name>
@@ -1058,11 +1058,11 @@
 			</travels>
 		</speakerInfo>
 		<bio><![CDATA[
-			<p>Brad Dinsmore is Group Executive Vice President, Head of Retail Banking, North America Consumer Banking, Citi. In this role, he is responsible for Citi's U.S. Regional Banking and Operations, which includes Retail Mortgage Lending, Branch Services and Customer Experience, Distribution Strategy, Sales and Regional Marketing, Performance Management and Citi@Work. </p>
-			<p>Mr. Dinsmore joined Citi in March 2009 and has since grown U.S. branch-based consumer deposits by $12 billion, improved operating efficiency, reduced expenses, and led the national rollout of a $100 million branch and technology enhancement program. He also led a highly successful national initiative to improve customer retention and the customer experience. Mr. Dinsmore works closely with Citi's other consumer businesses, including Personal Banking and Wealth Management, Small Business, Commercial Banking and Citi Cards to deliver comprehensive financial solutions for Citi's retail banking customers.</p>
-			<p>Prior to joining Citi, Mr. Dinsmore spent twenty-one years at Bank of America, where he was responsible for Retail Banking in the Western United States. In this role, he led the turnaround of 2,000 branches, achieving consistent growth and exceeding sales, service, operations and expense objectives. While at Bank of America, Mr. Dinsmore held a number of senior retail bank management positions across Consumer and Small Business Banking, Wealth Management and Marketing, including Head of Consumer and Mortgage Banking Operations in the Southeast from 2001 to 2005. He was also a member of the Management Operating Committee.</p>
-			<p>Mr. Dinsmore is a Member of the Board of the Consumer Bankers Association and a Member of the The Corporate Executive Board.</p>
-			<p>Mr. Dinsmore received his B.S. from California Polytechnic State University and is a graduate of the Pacific Coast Banking School at the University of Washington.</p>
+			<p>Brad Dinsmore is Group Executive Vice President, Head of Retail Banking, North America Consumer Banking, Citi. In this role, he is responsible for Citi's U.S. Regional Banking and Operations, which includes Retail Mortgage Lending, Branch Services and Customer Experience, Distribution Strategy, Sales and Regional Marketing, Performance Management and Citi@Work. </p> 
+			<p>Mr. Dinsmore joined Citi in March 2009 and has since grown U.S. branch-based consumer deposits by $12 billion, improved operating efficiency, reduced expenses, and led the national rollout of a $100 million branch and technology enhancement program. He also led a highly successful national initiative to improve customer retention and the customer experience. Mr. Dinsmore works closely with Citi's other consumer businesses, including Personal Banking and Wealth Management, Small Business, Commercial Banking and Citi Cards to deliver comprehensive financial solutions for Citi's retail banking customers.</p> 
+			<p>Prior to joining Citi, Mr. Dinsmore spent twenty-one years at Bank of America, where he was responsible for Retail Banking in the Western United States. In this role, he led the turnaround of 2,000 branches, achieving consistent growth and exceeding sales, service, operations and expense objectives. While at Bank of America, Mr. Dinsmore held a number of senior retail bank management positions across Consumer and Small Business Banking, Wealth Management and Marketing, including Head of Consumer and Mortgage Banking Operations in the Southeast from 2001 to 2005. He was also a member of the Management Operating Committee.</p> 
+			<p>Mr. Dinsmore is a Member of the Board of the Consumer Bankers Association and a Member of the The Corporate Executive Board.</p> 
+			<p>Mr. Dinsmore received his B.S. from California Polytechnic State University and is a graduate of the Pacific Coast Banking School at the University of Washington.</p> 
 			]]></bio>
 	</profile>
 	<profile>
@@ -1435,7 +1435,7 @@
 			<p>Earlier, Paul served as CEO of Global Transaction Services (GTS) a division of Citi's Institutional Clients Group.  Global Transaction Services is one of Citi's publicly reported product lines, offering award winning and industry leading Treasury and Trade Solutions, and Securities and Fund Services capabilities to corporations, governments, financial institutions and investment advisors worldwide. </p>
 			<p>Previously, he was the Global Head of the Cash Management business, -- one of the largest processors of cash flows globally, covering all geographic regions including North America and Latin America, Europe, the Middle East, Africa and Asia Pacific. Under Paul's leadership the Cash Management business experienced strong growth and a significant improvement in its operating performance. It was also recognized for innovation and excellence by many publications including Euromoney, The Banker and Global Finance.</p>
 			<p>Before this, Paul was Global Head of eCommerce and Market Data Strategy for Citi Corporate and Investment Banking.  Paul and his team set strategic direction and coordinated execution of eCommerce initiatives, advised on eCommerce alliances, consortia and joint ventures, set market data strategy, managed market data relationships and developed global agreements that generated cost savings, allowed greater distribution and leveraged purchased content and functionality.
-			<p>Previous positions before joining Citi were with Donaldson, Lufkin and Jenrette as Global Head of Ecommerce and Financial Engineering within Debt Capital Markets as well as Management Committee member; with both Smith Barney and CSFB heading Financial Engineering Divisions; and as President and Founder of BTP Information Services, Inc.</p>
+			<p>Previous positions before joining Citi were with Donaldson, Lufkin and Jenrette as Global Head of Ecommerce and Financial Engineering within Debt Capital Markets as well as Management Committee member; with both Smith Barney and CSFB heading Financial Engineering Divisions; and as President and Founder of BTP Information Services, Inc.</p> 
 			<p>Paul holds a B.A. from Cornell University where he graduated a Phillip Merrill Scholar.  He was featured in Institutional Investors Online 40 (2010, 2008), by Crain's New York Business as a member of its "40 Under 40" (2006), by Global Finance as a member of their "Who's Who in Treasury and Cash Management" (2006) and by CNBC as a "Young Gun" in its "Five under 40" profile (2006).  He serves as an Executive member on the NY Weill Cornell Medical Center Council. </p>
 			]]></bio>
 	</profile>
@@ -1537,7 +1537,7 @@
 			<p>Gary joined Citi in 1983, and has held a number of diverse positions in both corporate and consumer banking. He holds a BS in Economics from the University of Pennsylvania's Wharton School and an MS in Statistics and Operations Research from New York University's Stern School of Business. In 2006, Gary was recognized by Treasury and Risk Magazine as one of the 100 Most Influential People in Finance. </p>
 			]]></bio>
 	</profile>
-
+	
 	<profile>
 		<id>121</id>
 		<name>Carlos Gutierrez</name>
@@ -1564,7 +1564,7 @@
 			<p>As the 35th Secretary of the U.S. Department of Commerce, Mr. Gutierrez was responsible for a diverse Cabinet agency with some 38,000 workers and a $6.5 billion budget focused on promoting American business at home and abroad. During his tenure as Secretary, he regularly traveled internationally to visit with foreign government and business leaders to discuss ways to enhance trade and promote U.S. exports. Mr. Gutierrez played a key role in the passage of CAFTA-DR, a landmark agreement that strips away trade barriers, expands export opportunities and boosts hope and opportunity throughout Latin America. In addition, he also served the Bush Administration as Co-Chair for the Commission for Assistance to a Free Cuba and was actively involved in U.S./Cuba policy.</p>
 			<p>Secretary Gutierrez studied Business Administration at the Monterrey Institute of Technology in Queretaro, Mexico.</p>
 			]]></bio>
-	</profile>
+	</profile>	
 	<profile>
 		<id>29</id>
 		<name>Yung-Ku Ha</name>
@@ -1868,7 +1868,7 @@
 				<li>Previous Directorships within the last five years: Agilent Technologies, Inc., Wells Fargo & Co., and Macquarie DDR Management Ltd.</li>
 				<li>Other Activities: Committee for Economic Development (Trustee)</li>
 			</ul>
-			]]></bio>
+			]]></bio>		
 	</profile>
 	<profile>
 		<id>35</id>
@@ -2186,7 +2186,7 @@
 			<p>Jud Linville joined Citigroup in September 2010 as the Chief Executive Officer of Citi Cards. He is responsible for running the North America Cards business and works closely with regional Cards heads across the globe to develop world-class capabilities and facilitate rapid growth and innovation. Citi's global credit card business provides credit for people and businesses the world over, with activities in 50 countries and across six continents. </p><p>Jud serves on the Global Consumer Banking Council and heads the Global Cards Council.</p><p>Prior to joining Citi, Jud was President and Chief Executive Officer of U.S. Consumer Services at American Express Company. During his 20 years with American Express, Jud held a diverse set of roles and led a variety of business assignments. These included a number of marketing and general management positions, as well as responsibility for the consumer cards, membership rewards, consumer travel, digital assets, and global pre-paid businesses.</p><p>Before leading the Consumer Card Services Group, Jud was Executive Vice President of the Service Delivery Network where he was responsible for all U.S. card member and merchant customer service.</p><p>Jud is a member of the Board of Visitors at Duke University's Fuqua School of Business and the Board of Trustees at Lafayette College. He also serves on the Executive Committee of the Board of Directors at Lincoln Center for the Performing Arts.</p><p>Jud earned a bachelor's degree from Lafayette College and a doctorate in psychology from Drexel University College of Medicine.</p>
 			]]></bio>
 	</profile>
-
+	
 	<profile>
 		<id>40</id>
 		<name>Carl E. Levinson</name>
@@ -2332,11 +2332,11 @@
 		<bio><![CDATA[
 			<p>Mark Mason is COO of Citi Holdings and, beginning January 2012, he will assume a new role as CEO of Citi Holdings
 .</p>
-			<p>Mr. Mason has been with Citi since 2001 and has held various positions throughout the company. In November 2011, he was named CEO of Citi Holdings, which comprises Brokerage and Asset Management, Global Consumer Finance and Citi's Special Assets Portfolios.</p>
+			<p>Mr. Mason has been with Citi since 2001 and has held various positions throughout the company. In November 2011, he was named CEO of Citi Holdings, which comprises Brokerage and Asset Management, Global Consumer Finance and Citi's Special Assets Portfolios.</p> 
 			<p>Prior to becoming COO, Mr. Mason spent three years as Chief Financial Officer and Head of Strategy and M&A for Citi's Global Wealth Management Unit. He also spent three years as Chief of Staff to Citigroup's Chairman and CEO and was instrumental in the formation of Citigroup Alternative Investments and the development of its client-focused strategy. He held several positions there, including Head of Strategy, Planning and Analysis. In addition, he served as CFO and COO for Citigroup Real Estate Investments, where he was responsible for restructuring the business.</p>
 			<p>Prior to joining Citigroup, Mr. Mason spent three years with Lucent Technologies as Director of Strategy and Business Development. He also spent several years as a strategy consultant with Marakon Associates working with a number of Fortune 100 companies to develop strategies to maximize shareholder value. Mark also has experience in investment banking with Goldman, Sachs & Co.</p>
 			<p>Mr. Mason holds a Bachelor of Business Administration degree in finance and graduated with honors from Howard University in 1991. He also holds a Master of Business Administration degree from Harvard Business School. Mr. Mason has been recognized by Crain's New York Business "2008 40 Under 40," 2008 YMCA Business Leadership Award, Black Enterprise's "2009 100 Most Powerful Executives in Corporate America" and Howard University as a 2011 Distinguished Alumni in Business.  Mark is a member of the Board of Directors of Primerica Inc. and the United Negro College Fund. He is also a member of Kappa Alpha Psi Fraternity, Incorporated.</p>]]></bio>
-	</profile>
+	</profile>	
 	<profile>
 		<id>43</id>
 		<name>Mary McDowell</name>
@@ -2444,7 +2444,7 @@
 		<smallImg>mcquade.jpg</smallImg>
 		<speaker>yes</speaker>
 		<opc>yes</opc>
-		<bdc>yes</bdc>
+		<bdc>yes</bdc>		
 		<executivecommittee>none</executivecommittee>
 		<senioradvisor>no</senioradvisor>
 		<sec16dir>no</sec16dir>
@@ -2485,7 +2485,7 @@
 		<smallImg>medinamora.jpg</smallImg>
 		<speaker>yes</speaker>
 		<opc>yes</opc>
-		<bdc>yes</bdc>
+		<bdc>yes</bdc>			
 		<executivecommittee>none</executivecommittee>
 		<senioradvisor>no</senioradvisor>
 		<sec16dir>no</sec16dir>
@@ -2775,7 +2775,7 @@
 				<li>Previous Directorships within the last five years: N/A</li>
 				<li>Other Activities: Hawaii Pacific University (Trustee) and Honolulu Academy of Arts (Trustee)</li>
 			</ul>
-			]]></bio>
+			]]></bio>		
 	</profile>
 	<profile>
 		<id>126</id>
@@ -2827,11 +2827,11 @@
 		<news><![CDATA[
 			<b style="color: #636563; font-size: 1.1em;">Vikram Pandit in the News</b>
 			<ul class="list">
-
+				
 				<li><a href="http://economictimes.indiatimes.com/opinion/interviews/ceos-dont-run-a-popularity-contest-they-take-tough-calls-vikram-pandit-ceo-citigroup/articleshow/7606806.cms" target="_top">Interview with the Economic Times</a></li>
 				<li><a href="http://www.citigroup.com/citi/press/executive.htm" target="_top">Latest speeches</a></li>
 				<li><a href="http://online.wsj.com/article/SB10001424052748703727804576011862205476634.html" target="_top"><i>Wall Street Journal</i> profile</a> (requires login)</li>
-				<li><a href="http://new.citi.com/2011/02/pandit-on-harvard-us-competitiveness-panel.shtml#more" target="_top">Harvard U.S. competitiveness panel address</a></li>
+				<li><a href="http://new.citi.com/2011/02/pandit-on-harvard-us-competitiveness-panel.shtml#more" target="_top">Harvard U.S. competitiveness panel address</a></li>                     
 				<li><a href="http://new.citi.com/2011/01/pandit-interviewed-at-davos.shtml" target="_top">Davos interview</a></li>
 				<li><a href="http://new.citi.com/2010/12/pandit-on-trends-driving-citis-strategy-investment-and-growth-1.shtml" target="_top">On Citi's strategy for the future</a></li>
 			</ul>
@@ -2887,7 +2887,7 @@
 				<li>Previous Directorships within the last five years: Time Warner Inc.</li>
 				<li>Other Activities: Apollo Theatre Foundation (Chairman), Museum of Modern Art (Trustee), American Museum of Natural History (Trustee), New York City Partnership (Director), Smithsonian Institute of African American History and Culture (Co-Chairman of the Advisory Board), Rockefeller Foundation (Trustee), Jazz Foundation of America (Chairman of the Board), New York City Commission for Economic Opportunity (Co-Chair) and President's Council on Jobs and Competitiveness (member)</li>
 			</ul>
-			]]></bio>
+			]]></bio>		
 	</profile>
 	<profile>
 		<id>53</id>
@@ -2957,7 +2957,7 @@
 			<p>Mr. Roberts received a B.A. in economics from the University of Texas and an M.A. in international affairs (Banking and Finance) at Columbia University's School of International Affairs.</p>
 			<p>Mr. Roberts is married and has two daughters and lives in New York.</p>
 			]]></bio>
-	</profile>
+	</profile>	
 	<profile>
 		<id>55</id>
 		<name>Fernando Quiroz Robles</name>
@@ -3061,7 +3061,7 @@
 				<li>Previous Directorships within the last five years: Reader's Digest Association, Royal Dutch Petroleum and Royal Dutch Shell plc</li>
 				<li>Other Activities: The Andrew W. Mellon Foundation (Trustee), National Humanities Center (Trustee) and The Morgan Library & Museum (President)</li>
 			</ul>
-			]]></bio>
+			]]></bio>		
 	</profile>
 	<profile>
 		<id>56</id>
@@ -3093,7 +3093,7 @@
 				<li>Previous Directorships within the last five years: Aetna Inc.</li>
 				<li>Other Activities: World Trade Memorial Foundation (Director), Carnegie Hall (Director), Brookings Institution (Honorary Director), White House Project (member), Council on Foreign Relations (member), Institute of Medicine (member) and New York City Commission for Economic Opportunity (member)</li>
 			</ul>
-			]]></bio>
+			]]></bio>		
 	</profile>
 	<profile>
 		<id>101</id>
@@ -3225,7 +3225,7 @@
 				<li>Previous Directorships within the last five years: United Health Group</li>
 				<li>Other Activities: Cornell University (Trustee) and Harvard Business School (member of Visiting Committee)</li>
 			</ul>
-			]]></bio>
+			]]></bio>		
 	</profile>
 	<profile>
 		<id>74</id>
@@ -3258,7 +3258,7 @@
 				<li>Other Activities: Drexel University (Trustee), Drexel University College of Medicine (Vice Chair and Trustee) and Ben Franklin Technology Partners of Southeast Pennsylvania (Director)</li>
 			</ul>
 			<p></p><p>*Mr. Santomero will resign from B of A Fund Series Trust's Board as of June 30, 2011.</p>
-			]]></bio>
+			]]></bio>		
 	</profile>
 	<profile>
 		<id>61</id>
@@ -3395,7 +3395,7 @@
 			<p>Cece attended the University of South Carolina and graduated from Winthrop University's Executive Master of Business Administration program with honors in 1993. She is on the Foundation Board for Winthrop University and was also the prior Chair of the Consumer Bankers Association.</p>
 			<p>Cece's achievements have been recognized by various industry publications. In both 2007 and 2008, she was named by <i>Fortune</i> as one of the "50 Most Powerful Women in Business" and on <i>U.S. Banker</i>'s "Most Powerful Women in Banking" list. Cece is an experienced, dynamic business leader with over 30 years of industry experience. </p>
 			]]></bio>
-	</profile>
+	</profile>	
 	<profile>
 		<id>93</id>
 		<name>Carsten Stendevad</name>
@@ -3465,7 +3465,7 @@
 				<li>Previous Directorships within the last five years: Allianz Global Investors and FNMA</li>
 				<li>Other Activities: Accion International (Chair), AMFAR (Secretary), Columbia Business School (Board of Overseers), Dartmouth College (Trustee), Hudson River Park Trust (Chair), International Women's Health Coalition (Treasurer), Mailman School of Public Health (Board of Overseers), New York Women's Foundation (Vice Chair), The After School Corporation (member) and YMCA of Greater New York (member)</li>
 			</ul>
-			]]></bio>
+			]]></bio>		
 	</profile>
 	<profile>
 		<id>63</id>
@@ -3518,7 +3518,7 @@
 				<li>Previous Directorships within the last five years: N/A</li>
 				<li>Other Activities: Pacific Symphony Orchestra (Director), Thompson Foundation for Autism (Chair), Thompson Family Foundation (President) and University of Missouri (President's Financial Advisory Council)</li>
 			</ul>
-			]]></bio>
+			]]></bio>		
 	</profile>
 	<profile>
 		<id>77</id>
@@ -3808,7 +3808,7 @@
 				<li>Previous Directorships within the last five years: Electronic Data Systems Corporation and Union Pacific Corporation</li>
 				<li>Other Activities: ACE Limited (Member of International Advisory Board), Rolls-Royce (Member of International Advisory Board), BP (Member of International Advisory Board), Credit Suisse Research Institute (Advisor), World Economic Forum (Foundation Board), The Global Development Network (Chairman) and The Group of Thirty (Member)</li>
 			</ul>
-			]]></bio>
+			]]></bio>		
 	</profile>
 	<profile>
 		<id>67</id>
