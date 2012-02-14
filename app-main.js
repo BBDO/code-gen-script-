@@ -292,26 +292,142 @@ http.createServer(
 
             var toJSON = JSON.parse(jsonData)
                 userNameArr = [],
-                userTitleArr = []
+                userTitleArr = [],
+                userImgArr = [],
+                userSpeakerArr = [],
+                userOpcArr = [],
+                userBdcArr = [],
+                userExecCom = [],
+                userSenAdv = [],
+                userSec16dir = [],
+                userSec16exec = []
             $(toJSON.profile).each(function() {
               userNameArr.push(this.name)
             })
-            
+
             $(toJSON.profile).each(function(){
               userTitleArr.push(this.title1)
             })
+            $(toJSON.profile).each(function(){
+              userImgArr.push(this.smallImg)
+            })
+
+            $(toJSON.profile).each(function(){
+              if (!this.speaker == 'speaker'){
+                this.speaker = ''
+              }
+              userSpeakerArr.push(this.speaker)
+            })
+
+
+            $(toJSON.profile).each(function(){
+              if (!this.opc == 'yes'){
+                this.opc = ''
+              }
+              userOpcArr.push(this.opc)
+            })
+
+            $(toJSON.profile).each(function(){
+              if (!this.bdc == 'yes'){
+                this.bdc = ''
+              }
+              userBdcArr.push(this.bdc)
+            })
+
+            $(toJSON.profile).each(function(){
+
+              if (!this.executivecommittee === 'yes'){
+                this.executivecommitee = ''
+              }
+              userExecCom.push(this.executivecommittee)
+            })
+
+            $(toJSON.profile).each(function(){
+              if (!this.senioradvisor === 'yes'){
+                this.senioradvisor = ''
+              }
+              userSenAdv.push(this.senioradvisor)
+            })
+
+            $(toJSON.profile).each(function(){
+              if (!this.sec16dir === 'yes') {
+                this.sec16dir = ''
+              }
+              userSec16dir.push(this.sec16dir)
+            })
+            $(toJSON.profile).each(function(){
+              if (!this.sec16exec === 'yes'){
+                this.sec16exec = ''
+              }
+            })
+
+
+
 
 
             var template = '<div>{name}</div>'
 
+
             var profileDetails = template.supplant(this),
-                userTitleArrPair = []
+                userTitleArrPair = [],
+                assignSpeaker = '',
+                assignOpc = '',
+                assignBdc = '',
+                assignExec = '',
+                assignSenAdv = '',
+                sec16 = '',
+                sec16exec = ''
 
             for (var i=0;i<toJSON.profile.length;i++){
-                //console.log(userNameArr[i] + ', ' + userTitleArr[i])
-                userTitleArrPair.push('<div>' + userNameArr[i] + ': ' + userTitleArr[i] + '</div>')
+
+                if (userSpeakerArr[i] === 'yes'){
+                  assignSpeaker = 'speaker'
+                }
+                else {
+                  assignSpeaker = ''
+                }
+                if (userOpcArr[i] === 'yes'){
+                  assignOpc = ' opc'
+                }
+                else {
+                  assignOpc = ''
+                }
+                if (userBdcArr[i] === 'yes'){
+                  assignBdc = ' bdc'
+                }
+                else {
+                  assignBdc = ''
+                }
+                if (userExecCom[i] === 'yes'){
+                  assignExec = ' executive-committee'
+                }
+                else {
+                  assignExec = ''
+                }
+                if (userSenAdv[i] === 'yes'){
+                  assignSenAdv = ' senior-advisor'
+                }
+                else {
+                  assignSenAdv = ''
+                }
+                if (userSec16dir[i] === 'yes'){
+                  assignSec16 = ' sec16dir'
+                }
+                else {
+                  assignSec16 = ''
+                }
+                if (userSec16dir[i] === 'yes'){
+                  assignSec16exec = ' sec16exec'
+                }
+                else {
+                  assignSec16exec = ''
+                }
+
+
+console.log(assignSenAdv)
+                var userObj = '<li class="' + assignSpeaker + assignOpc + assignBdc + assignExec + assignSenAdv + assignSec16 + assignSec16exec + '"><a href=/><span class=image><img src=' + userImgArr[i] + ' alt="" /></span><span class=name>'+userNameArr[i]+'</span><span class=title>'+userTitleArr[i]+'</span></a></li>'
+                userTitleArrPair.push(userObj)
             }
-            console.log(userTitleArrPair)
 
 
             fs.writeFile("output/main.html", userTitleArrPair, function(err){
@@ -323,7 +439,7 @@ http.createServer(
             }
               console.log('end');
 
-            });            
+            });
 
         }
     }).listen(1337, "127.0.0.1");
