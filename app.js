@@ -333,7 +333,7 @@ http.createServer(
                     '<div id=scroller-wrapper>' +
                     '<div id=content>' +
                     '<div id=content-overflow>' +
-                    '<div id=content-inner>' +
+                    '<div id=content-inner>{bio}' +
                     '</div>' +
                     '</div>' +
                     '<div id=scrolltrack>' +
@@ -354,7 +354,7 @@ http.createServer(
                 for (var i=0;i<toJSON.profile.length;i++){
                     var fixLastName = this.lastname.replace(' ','_').toLowerCase()
                     fs.mkdir("output/" + fixLastName)
-                    fs.writeFile("output/" + fixLastName + "/ index.html", profileDetails, function(err) {
+                    fs.writeFile("output/" + fixLastName + "/index.html", profileDetails, function(err) {
                         if (err) {
                             console.log('error')
                             console.log(err);
