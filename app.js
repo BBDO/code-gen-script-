@@ -352,7 +352,7 @@ http.createServer(
 
 // todo: generate name with url
                 for (var i=0;i<toJSON.profile.length;i++){
-                    var fixLastName = this.lastname.replace(' ','_').toLowerCase()
+                    var fixLastName = this.lastname.split(',')[0].split(' ')[0].toLowerCase() + '_' + this.id
                     fs.mkdir("output/" + fixLastName)
                     fs.writeFile("output/" + fixLastName + "/index.html", profileDetails, function(err) {
                         if (err) {
